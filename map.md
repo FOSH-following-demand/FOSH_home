@@ -4,5 +4,4 @@ title: Map
 permalink: /map/
 ---
 
-
-test page!
+{% render_map 500,500 %}
