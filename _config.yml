@@ -29,7 +29,10 @@ github_username:  amchagas
 
 # Build settings
 markdown: kramdown
-remote_theme: pages-themes/slate
+remote_theme: https://github.com/pages-themes/slate
+#remote theme: pages-themes/midnight
+#theme: minima #jekyll-theme-slate
+
 plugins:
   - jekyll-feed
 
@@ -54,4 +57,4 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: jekyll-theme-slate
+

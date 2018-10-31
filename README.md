@@ -3,6 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Home
+permalink: /home/
+
 ---
 
 Hi! Welcome to the **Building Fosh following demand** project.
