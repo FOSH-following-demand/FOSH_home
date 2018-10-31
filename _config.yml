@@ -29,7 +29,7 @@ github_username:  amchagas
 
 # Build settings
 markdown: kramdown
-remote_theme: jekyll-theme-midnight
+remote_theme: https://github.com/pages-themes/slate
 plugins:
   - jekyll-feed
 
